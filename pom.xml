@@ -18,6 +18,7 @@
         <thucydides.version>0.9.222</thucydides.version>
         <jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
+        <author>dwright</author>
     </properties>
 
     <scm>
